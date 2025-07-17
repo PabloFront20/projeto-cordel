@@ -27,7 +27,7 @@ header {
 }
 
 header > h1 {
-    padding-top: 50px;
+    padding-top: 45px;
     font-variant: small-caps;
     font-size: 10vw;
     font-family: var(--fonte2);
@@ -35,7 +35,7 @@ header > h1 {
 }
 
 header > p {
-    padding-bottom: 50px;
+    padding-bottom: 45px;
 }
  header a, footer a {
     text-decoration: none;
